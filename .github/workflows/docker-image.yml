@@ -20,4 +20,4 @@ jobs:
       uses: docker/build-push-action@v2
       with:
         push: true
-        tags: <your-docker-username>/<your-repository-name>:latest
+        tags: harrysun0529/express-app:latest
